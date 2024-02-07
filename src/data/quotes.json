@@ -1,0 +1,35 @@
+{
+  "qoutes": [
+    {
+      "id": "Q2",
+      "text": "Yeah, we are not dating each other, but talking to you makes my anxiety disappear. I don't find anyone else attractive anymore. ",
+      "image": "/images/image-03.webp"
+    },
+    {
+      "id": "Q3",
+      "text": "I get butterflies, when I see your name pop up on my screen. You make me smile so easily.",
+      "image": "/images/image-02.webp"
+    },
+    {
+      "id": "Q4",
+      "text": "My sad thoughts go away when I talk with you. You are the only person who I talk throughout the whole day. ",
+      "image": "/images/image-01.webp"
+    },
+    {
+      "id": "Q5",
+      "text": "Your absence is stronger to me than the presence of thousands of other people. Some part of me still believes in us.",
+      "image": "/images/image-07.webp"
+    },
+    {
+      "id": "Q6",
+      "text": "You mean the whole world to me, and I hope you realize that.",
+      "image": "/images/image-06.webp"
+    }
+  ],
+  "propose": {
+    "id": "finished",
+    "text": "I'm not sure what life could bring you. I'm not sure if dreams will come true. But I'm sure about one thing, that I care about you, and I will not stop loving you.",
+    "subtext": "That's all I will wait for your reply",
+    "image": "/images/image-04.webp"
+  }
+}
